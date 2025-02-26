@@ -1,6 +1,6 @@
 # Meat Consumption Analysis & Prediction**
 
-## 💡 Real-World Applications
+## 💡 Real-World Application
 Government & Policy Makers: Design sustainable food policies and tax regulations.
 
 ## 📌 Project Overview
