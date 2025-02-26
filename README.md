@@ -27,18 +27,17 @@ Data will come from 3 main sources:
    
 Following variables will be included:
 
-*Meat_Consumption (kg per capita)
-*Meat_Production_Tonnes
-*GDP_per_capita (USD)
-*Meat_Price_Index
-*Total country population
-*Urbanization_Rate (%)
-*Vegetarian_Vegan_Population (%)
-*Meat_Imports_Tonnes
-*Meat_Exports_Tonnes
-*Greenhouse gas emissions from meat production
-*Water_Usage_Litres_per_Kg
-*Meat_Tax_Policy
+* Meat_Consumption (kg per capita)
+* Type of Meat
+* Meat_Production_Tonnes
+* GDP_per_capita (USD)
+* Meat_Price_Index
+* Total country population
+* Urbanization_Rate (%)
+* Vegetarian_Vegan_Population (%)
+* Greenhouse gas emissions from meat production
+* Water_Usage_Litres_per_Kg
+* Meat_Tax_Policy
 
 ## 📊 Methodology
 
