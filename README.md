@@ -6,6 +6,12 @@ Meat production is unsustainable due to its significant environmental impact, in
 ## 🎯 Goal
 This project aims to analyze and predict global meat consumption trends using machine learning. By leveraging economic, demographic, and environmental data, we can forecast meat demand and its implications for businesses, policymakers, and sustainability efforts.
 
+Some burning questions to address are:
+ - What factors influence meat consumption the most?
+ - Which countries consume the most meat?
+ - What are the environmental impacts?
+ - What's the future of meat consumption going to look like?
+
 ## 💡 Objectives
 
 1. Analyze historical meat consumption data by country.
