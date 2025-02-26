@@ -1,14 +1,12 @@
 # Meat Consumption Analysis & Prediction**
 
-## 💡 Real-World Application
-Government & Policy Makers: Design sustainable food policies and tax regulations.
-
 ## 📌 Project Overview
 Meat production is unsustainable due to its significant environmental impact, including high greenhouse gas emissions, excessive land use, and water consumption. Given its unsustainable practices, it is crucial to explore alternative food sources, such as plant-based options, and create policies that promote sustainable, eco-friendly diets to reduce the environmental burden and improve global food security.
 
+## 🎯 Goal
 This project aims to analyze and predict global meat consumption trends using machine learning. By leveraging economic, demographic, and environmental data, we can forecast meat demand and its implications for businesses, policymakers, and sustainability efforts.
 
-## 🎯 Objectives
+## 💡 Objectives
 
 1. Analyze historical meat consumption data by country.
 
@@ -45,8 +43,8 @@ Following variables will be included:
 2. Exploratory Data Analysis (EDA) – Visualize trends and correlations between variables.
 3. Feature Engineering – Select key predictors for model training.
 4. Machine Learning Models:
-    Time Series Forecasting: ARIMA, Prophet, LSTM for future trend prediction.
-    Regression Models: Linear Regression, Random Forest, XGBoost for understanding relationships.
+    - Time Series Forecasting: ARIMA, Prophet, LSTM for future trend prediction.
+    - Regression Models: Linear Regression, Random Forest, XGBoost for understanding relationships.
 7. Model Evaluation & Optimization – Tune hyperparameters and validate results.
 8. Visualization & Dashboarding – Present insights using interactive dashboards.
 
